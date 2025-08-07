@@ -9,6 +9,14 @@ A simple Python command-line tool to search for jobs using the `python-jobspy` l
 - Displays job listings with title, company, location, posting date, and job URL.
 - Saves the results to an Excel file.
 
+## Display Discovery
+
+This tool helps users discover job postings interactively, making job search efficient and customizable. It can be enhanced with filtering or AI features in future versions.
+
+## Screenshot
+
+![JobSpy CLI Screenshot](screen/image.png)
+
 ## Requirements
 
 - Python 3.10+
@@ -18,3 +26,7 @@ A simple Python command-line tool to search for jobs using the `python-jobspy` l
 
 ```bash
 pip install -r requirements.txt
+```
+## Run code
+```bash
+py -3.10  find_jobs.py

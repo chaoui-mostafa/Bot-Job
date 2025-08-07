@@ -38,6 +38,10 @@ def fix_country_name(name):
         "sweden", "switzerland", "taiwan", "thailand", "türkiye", "turkey", "ukraine",
         "united arab emirates", "uk", "united kingdom", "usa", "us", "united states",
         "uruguay", "venezuela", "vietnam", "usa/ca", "worldwide"
+        
+        
+        
+        
     ]
     
     name = name.lower().strip()
